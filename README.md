@@ -16,6 +16,7 @@
 
 Angular use modules
 - @kolkov/angular-editor (https://www.npmjs.com/package/@kolkov/angular-editor)
+- FormsModule
 - HttpClientModule
 
 Nest use modules
